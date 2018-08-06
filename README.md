@@ -1,2 +1,11 @@
 # crudLaravelVue
-This is just for learning
+This is a Laravel 5.6 and VUE.js Crud.
+
+
+It is a simple CRUD for a form, this is a smaller version of a Company register, as you see in the code there no api authentication, so if you want to do this in a "production" enviroment, you must set your own security methods.
+
+
+Maybo soon I will upload a Laravel Passport API Demo.
+
+
+THANKS
