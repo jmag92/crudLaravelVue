@@ -61,7 +61,7 @@
                 event.preventDefault();
                 var app = this;
                 var newCompany = app.company;
-                axios.post('/api/v1/companies', newCompany)
+                axios.post('api/v1/companies', newCompany)
                     .then(function (resp) {
                         app.$router.push({path: '/'});
                     })
